@@ -1,0 +1,23 @@
+#data-container {
+    margin-top: 20px;
+    
+}
+
+.pagination {
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+}
+
+.pagination li {
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #474747;
+    color: #fff;
+    border-radius: 40%;
+}
+
+.pagination li:hover {
+    background-color: #eae55b;
+    
+}
